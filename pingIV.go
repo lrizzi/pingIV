@@ -104,7 +104,7 @@ func main() {
 		fmt.Fprintf(os.Stderr, "  %s CXXVII.nulla.nulla.I          # Ping 127.0.0.1 (725 BC latin format)\n", os.Args[0])
 		fmt.Fprintf(os.Stderr, "  %s -c 10 VIII.VIII.VIII.VIII     # Send 10 pings to 8.8.8.8\n", os.Args[0])
 		fmt.Fprintf(os.Stderr, "  %s -v CXCII.CLXVIII.I.I          # Verbose mode (show the coversion on top)\n", os.Args[0])
-		fmt.Fprintf(os.Stderr, "\nFor the compatiblity notation after 725 BC there is an automatically pad with zero/s\n")
+		fmt.Fprintf(os.Stderr, "\nFor the compatiblity notation after 725 BC will be automatically padded with zero/s\n")
 		fmt.Fprintf(os.Stderr, "\nCC-BY-SA-4.0 | Leonardo Rizzi (XenT)\n")
 
 	}
