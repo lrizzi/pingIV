@@ -35,7 +35,14 @@ For the compatiblity notation after 725 BC there is an automatically pad with ze
 
 Requiments golang compiler and run the commmand:
 
-```go build```
+If you want to build for your platform:
+
+```make```
+
+If you want to cross compile:
+
+```make all```
+
 
 ### FAQ
 
