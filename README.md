@@ -22,11 +22,11 @@ Options:
   -v	Verbose output (show conversion)
 
 Examples:
-  ./pingIV CXXVII.N.N.I                  # Ping 127.0.0.1
-  ./pingIV CXXVII...I                    # Ping 127.0.0.1 (725 BC format)
-  ./pingIV CXXVII.nulla.nulla.I          # Ping 127.0.0.1 (725 BC latin format)
-  ./pingIV -c 10 VIII.VIII.VIII.VIII     # Send 10 pings to 8.8.8.8
-  ./pingIV -v CXCII.CLXVIII.I.I          # Verbose mode (show the coversion on top)
+  pingIV CXXVII.N.N.I                  # Ping 127.0.0.1
+  pingIV CXXVII...I                    # Ping 127.0.0.1 (725 BC format)
+  pingIV CXXVII.nulla.nulla.I          # Ping 127.0.0.1 (725 BC latin format)
+  pingIV -c 10 VIII.VIII.VIII.VIII     # Send 10 pings to 8.8.8.8
+  pingIV -v CXCII.CLXVIII.I.I          # Verbose mode (show the coversion on top)
 
 For the compatiblity notation after 725 BC there is an automatically pad with zero/s
 ```
