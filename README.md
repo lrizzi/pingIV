@@ -28,7 +28,7 @@ Examples:
   pingIV -c 10 VIII.VIII.VIII.VIII     # Send 10 pings to 8.8.8.8
   pingIV -v CXCII.CLXVIII.I.I          # Verbose mode (show the coversion on top)
 
-For the compatiblity notation after 725 BC there is an automatically pad with zero/s
+For the compatiblity notation after 725 BC there is an automatically padded with zero/s
 ```
 
 ### Build
