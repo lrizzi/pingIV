@@ -46,22 +46,22 @@ If you want to cross compile:
 
 ### FAQ
 
-Q. Will there be an IPv6 version?
+*Q.* Will there be an IPv6 version?
 
-A. I don't think so there are too many overlaps with the Latin letters, not even in Roman times was IPv6 fully supported imagine in the years MM
+*A.* I don't think so there are too many overlaps with the Latin letters, not even in Roman times was IPv6 fully supported imagine in the years MM
 
-Q. Os $random feature from standard ping supported?
+*Q.* Is $random feature from standard ping supported?
 
-A. You can open an issue or write to me, and maybe I will implement it or find a very compelling historical argument to not do it
+*A.* You can open an issue or write to me, and maybe I will implement it or find a very compelling historical argument to not do it
 
-Q. Why additive notation do weird things with more than 3 symbols?
+*Q.* Why additive notation do weird things with more than 3 symbols?
 
-A. Well go to some historical building, you will found out that not even the ancient Roman used a single standard
+*A.* Well go to some historical building, you will found out that not even the ancient Roman used a single standard
 
 
-Q. What the hell are Roman Numerals?
+*Q.* What the hell are Roman Numerals?
 
-A. It's never to late to learn something new, check Wikipedia [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
+*A.* It's never to late to learn something new, check Wikipedia [Roman Numerals](https://en.wikipedia.org/wiki/Roman_numerals)
 
 
 ### License
